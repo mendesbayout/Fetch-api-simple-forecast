@@ -1,0 +1,58 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+  
+
+}
+h1{
+    text-align: center;
+    color: blue;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin: solid black;
+
+
+}
+body{
+    padding-top: 40px;
+    font-family: "Nunito", sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    margin: auto;
+    background-color: lightblue;
+    background-size: cover;
+    
+    
+
+
+}
+
+.input {
+    padding-top: 60px;
+    text-align: center;
+    font-size: 10px;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: 50px;
+    background-color: lightcyan;
+    padding-bottom: 50px;
+    border-style: solid;
+    border-color: black;
+
+}
+.display{
+    padding-top: 60px;
+    text-align: center;
+    font-size: 60px;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: lightcyan;
+    padding-bottom: 50px;
+    border-style: solid;
+    border-color: black;
+}
+
+
